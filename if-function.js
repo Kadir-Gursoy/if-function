@@ -16,12 +16,12 @@ function check (name, tckn) {
     if (names == "")
     
     console.log("lütfen isminizi giriniz");
-    return;
+    
 }
     
     if(tckn.length != 11 ){
         console.log("lütfen tkcn giriniz");
-        return;
+        
 
 
 
